@@ -35,8 +35,4 @@ This project helps in understanding customer behavior, sales trends, and music p
 2. Run queries
 3. Analyze output
 
----
 
-## 🙌 Author
-
-Prince Kumar
