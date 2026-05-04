@@ -25,7 +25,7 @@ This project helps in understanding customer behavior, sales trends, and music p
 
 ## 🗂️ Database Schema
 
-(MusicDatabaseSchema.png)
+![Database Schema](MusicDatabaseSchema.png)
 
 ---
 
